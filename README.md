@@ -1,1 +1,3 @@
 # pensamentocomputacinal
+
+Wendel
